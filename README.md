@@ -1,4 +1,4 @@
-# C-
+# FruitNinja
 基于Cocos2d-x2.2.3游戏引擎开发
 
 
