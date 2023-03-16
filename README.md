@@ -25,3 +25,16 @@
 
 开发环境 vs2010
 压缩包下载之后将class和resource文件夹替换到自己的项目中即可
+
+
+部分截图
+
+
+
+![image](https://user-images.githubusercontent.com/126632187/225497304-e584ab71-5b88-4fb0-92c8-ad1a42d2592d.png)
+![image](https://user-images.githubusercontent.com/126632187/225496569-d050aef0-91c1-44c1-b362-9cfcc6cfa199.png)
+![image](https://user-images.githubusercontent.com/126632187/225496646-7ba7da51-86e1-4298-a9fe-a47665e5251d.png)
+![image](https://user-images.githubusercontent.com/126632187/225497239-ae065e2b-d1a7-45b9-8c70-9daadf31e50d.png)
+
+
+
